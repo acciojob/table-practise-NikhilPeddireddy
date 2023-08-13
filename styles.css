@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+<table border="1">
+		<style>
+    table {
+      background-color: yellow;
+		border-collapse: separate;
+      border: 1px solid black;
+    }
+
+    th, td {
+      border: 1px solid black;
+    }
